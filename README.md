@@ -1,4 +1,4 @@
-# community-insider-bot- AI-Powered Developer Feedback Aggregator
+# Community-Insider-Bot- AI-Powered Developer Feedback Aggregator
 
 This project is a Microsoft Teams application that uses the Teams AI Library (v2) and MCP protocol to ingest developer feedback from Stack Overflow and GitHub Issues, extract actionable insights using GPT-4, and surface them through a conversational Teams bot with Adaptive Cards.
 
