@@ -1,0 +1,362 @@
+[
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79604218/access-messages-from-one-on-one-chat-belonging-to-different-tenant-using-ms-grap",
+    "summary": "Key Problem: Lack of body content in the feedback provided.\nUrgency: Low",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/65267445/how-do-i-add-my-custom-application-in-group-chat-tab-in-ms-teams",
+    "summary": "Key Problem: The body content of the feedback is missing.\nUrgency: High",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/77597576/microsoft-graph-api-cannot-get-recordings-after-creating-meeting-using-onlinem",
+    "summary": "Key Problem: The feedback points to the issue of missing body content, which means there is a lack of information or content in the body section of the application or website in question.\n\nUrgency: Medium - This is crucial for user experience and should be addressed promptly, but it may not completely stop the application or website from functioning, depending on the context and purpose of the body content.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79616101/how-can-i-add-automated-tasks-and-notifications-to-my-microsoft-teams-chatbot",
+    "summary": "Key Problem: There is no body content provided in the feedback.\nUrgency: Low. (Assuming the feedback is inadvertently missing content, it requires follow-up but does not indicate an immediate issue with a product or service.)",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79614341/connectionreseterror-when-sending-messages-to-ms-teams-bot-after-inactivity-peri",
+    "summary": "Key Problem: Lack of body content provided in the feedback.\nUrgency: Low. This may not be a critical issue but needs to be addressed to provide meaningful feedback or information.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79613208/ms-teams-when-a-keyword-is-mentioned-in-a-chat-or-a-channel-post-a-message-to",
+    "summary": "Key Problem: Lack of body content or specific details regarding the issue.\n\nUrgency: Low - More information is needed to properly assess the situation and determine appropriate actions.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79606242/how-to-know-if-tab-navigation-in-personal-app-is-caused-by-click-on-open-app-in",
+    "summary": "Key Problem: The feedback lacks specific content or details about the issue.\nUrgency: Low, as there is no information provided to assess or act upon.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/64352020/alerts-firing-on-prometheus-but-not-on-alertmanager",
+    "summary": "Key Problem: The feedback lacks descriptive content or details of the issue.\nUrgency: Low (as no specific problem is described, it does not require immediate attention until further information is provided)",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/61676124/indexeddb-is-not-working-in-a-webview-why",
+    "summary": "Key problem: Missing or empty body content in the feedback.\nUrgency: Low (Assuming this is a non-blocking issue and more information is needed to assess the impact)",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79597348/not-able-to-use-bot-app-in-more-than-one-channels-of-microsoft-teams",
+    "summary": "Key Problem: There is an absence of body content in the feedback provided by the developer.\nUrgency: Low (Assuming this is a data entry or feedback collection error and does not have a direct impact on system functionality or user experience)",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/78864991/not-able-to-add-bot-in-second-teams-channel-not-getting-welcome-in-second-thrid",
+    "summary": "Key Problem: The feedback lacks body content, meaning it does not provide any specific details or context about the issue.\n\nUrgency: Low - Since there's no information provided, it is difficult to determine the urgency or address any specific problems. Further details are needed to assess and prioritize the issue.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79598351/instructor-receive-a-blank-popup-window-when-accessing-more-settings-meeting-o",
+    "summary": "The key problem in the developer feedback is that there is no body content provided in the message, making it difficult to understand the specific issue or context. Urgency classification: Low, as more information is needed to accurately assess and address the problem.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79564920/microsoft-copilot-studio-payg-restricting-teams-channel-access-to-specific-use",
+    "summary": "Key Problem: There is no body content provided in the feedback.\n\nUrgency: Low - Without additional context or specific issues highlighted, this feedback may not indicate any critical or immediate issues needing resolution.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/75315375/how-do-i-send-a-message-to-myself-with-powerautomate",
+    "summary": "Key Problem: Lack of body content provided in the feedback.\nUrgency: Low",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79592550/teams-bot-not-receiving-messages-sent-from-within-teams",
+    "summary": "Key Problem: Lack of body content in the feedback.\nUrgency: Low - depending on context, might require elaboration but not immediately critical.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79591628/the-thread-id-is-invalid-microsoft-graph-api-for-team",
+    "summary": "Key Problem: The feedback lacks body content, meaning there is no detail or information provided.\n\nUrgency Classification: Low - Since there is no information to act upon, the urgency of this issue is low. Additional details are needed to assess and prioritize the feedback.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/78899179/custom-teams-app-using-blazor-published-in-azure-not-working",
+    "summary": "Key Problem: The feedback lacks specific content or information regarding the issue being addressed.\n\nUrgency: Low (assuming no additional context indicating urgency is provided)",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/77321198/ms-teams-bot-login-issue-successful-authentication-but-unable-to-reach-app-er",
+    "summary": "Key Problem: The feedback lacks any specific content or details regarding the issue or concern.\n\nUrgency: Low - Without any details, it is not possible to assess the urgency or take any action. Further information is needed to address the problem appropriately.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/78969957/ms-teams-bot-adaptive-card-user-mention-not-working",
+    "summary": "Key Problem: The feedback lacks any detailed content or description of the issue.\nUrgency: Low (due to lack of information provided, cannot determine urgency accurately)",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79582775/revoking-user-consent-permission-in-microsoft-teams-app",
+    "summary": "Key Problem: There is no body content provided in the feedback, which makes it impossible to identify or address any specific issues or concerns.\n\nUrgency: Low - Without further details, the urgency cannot be determined as there is no clear issue to resolve.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/71404758/ui-automation-fails-to-find-elements-in-microsoft-teams-unless-inspec",
+    "summary": "Key problem: The feedback lacks body content, providing no details or context about the issue. \n\nUrgency: Low (Assuming no impactful information is missing; reassess if additional context is provided indicating a critical issue).",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79576736/not-able-to-show-the-sso-dialog-in-teams-bot-as-nothing-happens-after-begin-dial",
+    "summary": "Key Problem: The developer feedback lacks body content, meaning there is no detailed description or explanation of the issue or feedback provided.\n\nUrgency Classification: Low. Since there's no information about the nature of the problem or feedback, the urgency cannot be accurately assessed and is assumed to be low until further details are provided.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79576461/error-get-serviceurl-failed-unable-to-get-local-issuer-certificate-in-teams-to",
+    "summary": "The key problem in this developer feedback is that there is no body content. This means that essential details or information are missing. The urgency of this issue would be classified as High, as it directly impacts the ability to understand or proceed with the task at hand.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79578939/python-bot-with-sso-deployed-on-azure-web-app-works-in-browser-but-fails-in-team",
+    "summary": "Key Problem: There is a missing body content which means crucial information or details may be lacking.\nUrgency: Medium - Depending on what the content is supposed to include, its absence may impact functionality or user understanding. Immediate action is advisable but not critical.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79144049/graph-api-adding-app-to-microsoft-teams-chat-returns-403-forbidden",
+    "summary": "The key problem identified in the developer feedback is that there is no body content provided. Urgency: Low - depends on the context and what content is missing/expected.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79576370/set-entrauser-showinaddresslist-a-parameter-cannot-be-found-that-matches-param",
+    "summary": "Key Problem: Lack of specific details about the feedback provided.\n\nUrgency: Low",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79576797/power-apps-for-teams-removing-copilot-from-the-front-end",
+    "summary": "Key Problem: Lack of body content provided in the feedback or report.\nUrgency: Low (depending on the context, more information needed to assess accurately).",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79576619/powerapps-for-teams-error-message-the-requested-rename-failed-unexpectedly",
+    "summary": "The key problem in this developer feedback is that there is no body content provided. Urgency classification: Low.",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/79575792/posting-an-adaptive-card-obtain-from-a-power-automate-create-an-approval-action",
+    "summary": "Key Problem: Lack of body content in the feedback provided.\nUrgency: Low (as there is insufficient information to assess the actual problem).",
+    "urgency": "High"
+  },
+  {
+    "source": "stackoverflow",
+    "link": "https://stackoverflow.com/questions/78108207/displaying-user-avatar-next-to-the-activity-feed-notification-in-application-onl",
+    "summary": "Key problem: Lack of body content provided in the feedback. \nUrgency: Low",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12877",
+    "summary": "Key Problem: On the iOS client of Teams, the `targetWidth` attribute in Adaptive Cards is not functioning as expected. Elements that should be hidden or shown based on the specified `targetWidth` are all being displayed, regardless of the device's width.\n\nUrgency Classification: High\n\nRationale: The issue leads to incorrect display and functionality of Adaptive Cards specifically on iOS, impacting user experience and potentially leading to confusion as the intended design and conditions of visibility are not respected. This can significantly impair the functionality of Adaptive Cards which are designed to provide dynamic context-based information.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12876",
+    "summary": "Key Problem: The developer feedback mentions \"No body content,\" which suggests that there is missing information or content that was expected but is not present.\n\nUrgency Classification: Medium. The urgency might depend on the specific context of what content is missing and how critical it is for immediate functions or operations.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12875",
+    "summary": "Key Problem: Lack of body content in the feedback, making it impossible to address any specific issues or concerns.\n\nUrgency: Low - Without additional information, the urgency cannot be determined, but it's likely not a critical issue currently affecting functionality or user experience.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12871",
+    "summary": "The key problem highlighted in the developer feedback is that there is no body content. This issue needs more context for classification, but generally, it could be classified as Medium urgency since lack of content may affect functionality or presentation, depending on the specific application or system involved.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12870",
+    "summary": "Key Problem: The feedback lacks any information or content describing a specific issue or problem.\nUrgency: Low - The feedback does not mention an issue that needs immediate attention; it simply lacks detail or content.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12869",
+    "summary": "The key problem in this feedback is the lack of body content, meaning pertinent information or context is missing. The urgency is classified as Medium since further information is required to evaluate and address any specific issues effectively.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12868",
+    "summary": "Key Problem: The feedback mentions \"No body content\", which suggests that there may be missing content or information that is expected to be displayed or processed but is not present.\n\nUrgency: High - If body content is crucial for the functionality or usability of the application, addressing this issue promptly is essential to ensure proper operation and user experience.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12867",
+    "summary": "Key problem: The user is encountering a BotPartnerValidationFailed error when trying to upload a zip file in a team, despite the validation completing successfully.\n\nUrgency Classification: High (assuming the upload functionality is critical for user workflows and this issue prevents successful completion of the task).",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12866",
+    "summary": "Key Problem: The developer feedback lacks body content, providing no specific details about the issue or feedback. \n\nUrgency: Low - There is no clear problem stated that requires immediate action, but some response or request for more information may be needed.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12865",
+    "summary": "Key Problem: The issue in the feedback is likely related to some problem or proposed change mentioned in a pull request (pull request URL provided) on the MicrosoftDocs/msteams-docs repository.\n\nUrgency Classification: Low - Since the feedback is directly related to a pull request (which generally involves new changes or fixes that are not yet affecting the main codebase), the urgency is typically lower unless specified otherwise about a critical update or fix.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12864",
+    "summary": "The key problem in this developer feedback is that there is no body content provided. The urgency of this issue depends on the context, such as what the body content was expected to include and how critical it is for the ongoing task or project. Without further details, it is difficult to accurately classify the urgency, but it could potentially be Medium if the absent content halts progress.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12857",
+    "summary": "Key Problem: The feedback lacks any specific details or issues being reported, making it impossible to identify or solve the problem.\n\nUrgency: Low - Without further information, no action can be taken and the urgency cannot be ascertained.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12855",
+    "summary": "Key Problem:\nThe feedback points out a bug in a feature where some users are not receiving a token when calling the bot despite the application being deployed in the same tenant. The issue only affects some users, indicating it might be an inconsistent or partial failure.\n\nUrgency Classification: Medium\nThe problem impacts user authentication and interaction, possibly affecting the application's usability and user experience. However, it does not affect all users, suggesting a more moderate level of urgency for resolution.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12854",
+    "summary": "Key Problem: Lack of body content in the provided feedback.\nUrgency: Low",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12853",
+    "summary": "The key problem in this developer feedback is the lack of body content. Urgency level to classify: Low",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12852",
+    "summary": "The developer feedback presents an issue where the user is unable to successfully use Microsoft Graph API due to authentication errors involving the application ID and secret. They are trying to send a POST request but receive an \"Unauthorized\" error because their process does not align with the requirements stated in the documentation. The developer is seeking guidance on whether they are using the application correctly, and if not, how to properly call the Graph by this application and resolve the error.\n\n**Urgency Classification: Medium**\n\nThis issue should be resolved promptly to allow the developer to continue integrating or using the Microsoft Graph API effectively, but it doesn't appear to be causing immediate critical failure, assuming it doesn't halt other dependent operations.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12851",
+    "summary": "Key Problem: The developer is facing a bug where the helloworld teams package from Microsoft Teams Samples cannot be imported into SharePoint. During the import process, an error message is displayed stating \"Provider hosted app package validation error. One of the required properties is null.\"\n\nUrgency: Medium - This issue prevents successful implementation of documented features but does not impact critical system operations or security. Prompt resolution is needed to ensure developers can proceed with their integration tasks without extended disruptions.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12850",
+    "summary": "Key Problem: Lack of specific body content or context in the feedback provided.\n\nUrgency: Low, assuming more information is required to address any specific issue.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12847",
+    "summary": "Key Problem: Missing body content in the feedback submission.\nUrgency: Medium - Needs to be addressed to ensure complete and useful feedback.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12839",
+    "summary": "**Key Problem**: \nThe developer is confused about the instructions provided in step 3 regarding accessing Microsoft Teams through the Teams Developer Toolkit/Teams App, particularly when the developer does not have permission to submit apps within their organization. The developer is uncertain about how to run what they have built using these tools and seeks further guidance on the process.\n\n**Urgency Classification**: Medium\nThere is a need for clarification and additional instructions to ensure developers can proceed without organizational submission permissions, but it does not completely halt development.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12838",
+    "summary": "**Key Problem:** The developer feedback highlights that there is an error in the file path specified in the zipping instructions for a quickstart guide on Microsoft Teams. The document incorrectly points to \"BotConversationSsoQuickstart\" whereas the actual path should include \"TeamsApp\\appPackage.\"\n\n**Urgency Classification:** Medium. This issue directly affects the users' ability to correctly follow the instructions, potentially causing confusion and delays in implementation. However, it does not impact the functionality or security risks of the software. Fixing the documentation would improve user experience and adherence to the guide.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12837",
+    "summary": "Key problem: The feedback given by the developer (\"Jhh\") is not clear or informative and does not specify the issue encountered.\n\nUrgency: Low, as the feedback doesn't provide enough information to determine any actionable steps or understand the relevance of the issue. Additional information from the developer would be needed to assess and address any problem.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12836",
+    "summary": "**Key Problem:**\nThe documentation contradicts the actual behavior of the Teams Client regarding the team ID property. It inaccurately specifies using the channel ID instead of the actual team GUID, which is detrimental because the team ID is necessary for utilizing many API methods related to Channel resources in the Graph API. This inconsistency between the documentation and actual client behavior is resulting in errors and blocking the use of essential API functions.\n\n**Urgency: High**\nThe issue prevents developers from accessing and using crucial API functions as expected, directly impacting functionality and development processes within Teams integrations. Immediate correction of both documentation and possibly the Teams Client behavior is needed to resolve these errors.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12835",
+    "summary": "Key problem: When the developer hits F5 to start the project, certain expected windows (\"security window\" and \"Your bot is ready!\" window) do not appear, despite having no errors displayed and after previously installing the necessary certificates. It is unclear whether this behavior is expected based on the documentation provided.\n\nUrgency: Medium – The problem affects the developer's understanding and progress, but isn’t causing an immediate halt or critical error in functionality. Addressing it soon could help clarify the process and avoid potential confusion.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12833",
+    "summary": "Key Problem: The developer is experiencing an issue where the `lifecycle deploy` command fails due to an unsuccessful execution of the `cli/runNpmCommand`, specifically the `npm install --no-audit` command. Error messages suggest issues related to SSL certificate file paths and potentially the `npm install` command itself.\n\nUrgency: High\n\nThis issue prevents the deployment lifecycle from completing successfully, which directly impacts development progress and deployment capabilities. Immediate attention is needed to resolve the issue and ensure smooth deployment processes.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12832",
+    "summary": "Key problem: The feedback lacks body content, making it difficult to understand the specific issue or concern raised by the developer.\n\nUrgency: Low - Without more details, the urgency of the problem cannot be determined. Further information is needed to appropriately classify the urgency.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12830",
+    "summary": "The key problem from the feedback is that there is a bug affecting the functionality of a feature as mentioned on the Microsoft Teams Toolkit installation guide. The user has provided their contact information potentially for further follow-up.\n\nUrgency: Medium - The issue needs to be addressed to ensure that users can properly use the feature, but it is not causing a complete breakdown of the service.",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12829",
+    "summary": "Key Problem: The text provided appears to be a potential data privacy issue as it includes personal and contact information which should not typically be shared publicly. Posting such personal information might violate personal data protection regulations and confidentiality agreements.\n\nUrgency: High (The data should be removed or anonymized as soon as possible to prevent potential misuse or violation of privacy regulations.)",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12828",
+    "summary": "Key problem: The feedback consists of personal contact information, which seems irrelevant and possibly provided mistakenly. There is no specific feedback or problem mentioned regarding the content on the provided page URL.\n\nUrgency: Low (unless sensitive personal information exposure is considered urgent to handle, then it would be High).",
+    "urgency": "High"
+  },
+  {
+    "source": "github",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12827",
+    "summary": "The key problem in this feedback is the inclusion of personal information (name and address) instead of providing specific details or issues regarding the developer content on the Microsoft Teams Toolkit installation page. This input does not contain relevant feedback for improving or addressing issues related to the documentation in question.\n\nUrgency: Low, as it does not pertain to an actual problem or bug with the platform or toolkit itself, but inappropriate sharing of personal information should be addressed to protect the user's privacy.",
+    "urgency": "High"
+  }
+]
