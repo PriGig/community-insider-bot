@@ -1,0 +1,92 @@
+{
+  "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.5",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "📢 Top Feedback Today",
+      "weight": "Bolder",
+      "size": "Medium",
+      "color": "Attention",
+      "spacing": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Here are the top 3 feedback items based on urgency:",
+      "wrap": true,
+      "spacing": "Small"
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "text": "1. ${summary1} - **${urgency1}**",
+          "wrap": true,
+          "color": "dark"
+        },
+        {
+          "type": "TextBlock",
+          "text": "Source: ${source1}",
+          "isSubtle": true,
+          "spacing": "Small"
+        },
+        {
+          "type": "ActionSet",
+          "actions": [
+            {
+              "type": "Action.OpenUrl",
+              "title": "View Details",
+              "url": "${link1}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TextBlock",
+      "text": "2. ${summary2} - **${urgency2}**",
+      "wrap": false,
+      "color": "dark"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Source: ${source2}",
+      "isSubtle": true,
+      "spacing": "Small"
+    },
+    {
+      "type": "ActionSet",
+      "actions": [
+        {
+          "type": "Action.OpenUrl",
+          "title": "View Details",
+          "url": "${link2}"
+        }
+      ]
+    },
+    {
+      "type": "TextBlock",
+      "text": "3. ${summary3} - **${urgency3}**",
+      "wrap": true,
+      "color": "dark"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Source: ${source3}",
+      "isSubtle": true,
+      "spacing": "Small"
+    },
+    {
+      "type": "ActionSet",
+      "actions": [
+        {
+          "type": "Action.OpenUrl",
+          "title": "View Details",
+          "url": "${link3}"
+        }
+      ]
+    }
+  ]
+}

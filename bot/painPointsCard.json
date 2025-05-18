@@ -1,0 +1,68 @@
+{
+  "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.5",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "💡 Pain Points Summary",
+      "weight": "Bolder",
+      "size": "Medium",
+      "color": "dark",
+      "spacing": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Below is the summary of critical issues identified in the latest feedback:",
+      "wrap": true
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "text": "Urgency: **${urgency1}**",
+          "color": "dark",
+          "weight": "Bolder"
+        },
+        {
+          "type": "TextBlock",
+          "text": "${summary1}",
+          "wrap": true
+        },
+        {
+          "type": "ActionSet",
+          "actions": [
+            {
+              "type": "Action.OpenUrl",
+              "title": "View Details",
+              "url": "${link1}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TextBlock",
+      "text": "Urgency: **${urgency2}**",
+      "color": "dark",
+      "weight": "Bolder",
+      "spacing": "Medium"
+    },
+    {
+      "type": "TextBlock",
+      "text": "${summary2}",
+      "wrap": true
+    },
+    {
+      "type": "ActionSet",
+      "actions": [
+        {
+          "type": "Action.OpenUrl",
+          "title": "View Details",
+          "url": "${link2}"
+        }
+      ]
+    }
+  ]
+}
