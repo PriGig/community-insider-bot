@@ -60,7 +60,7 @@ This project is a Microsoft Teams application that uses the Teams AI Library (v2
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone PriGig/community-insider-bot
    cd community-insider-bot
    ```
 
