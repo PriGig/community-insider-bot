@@ -137,3 +137,5 @@ This project is a Microsoft Teams application that uses the Teams AI Library (v2
 * Developer: \kumaripriya
 
 ---
+## Contact
+For queries, please reach out to kumaripriya@microsoft.com or open an issue in the repository.
