@@ -1,0 +1,362 @@
+[
+  {
+    "source": "stackoverflow",
+    "title": "Access messages from one-on-one chat belonging to different tenant using MS Graph application",
+    "body": "Not able to access messages using MS Graph application",
+    "link": "https://stackoverflow.com/questions/79604218/access-messages-from-one-on-one-chat-belonging-to-different-tenant-using-ms-grap"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "How do I add my custom application in group/chat tab in MS Teams?",
+    "body": "How to add my custom application in group/chat tab in MS Teams?",
+    "link": "https://stackoverflow.com/questions/65267445/how-do-i-add-my-custom-application-in-group-chat-tab-in-ms-teams"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Microsoft Graph API - Cannot Get Recordings after creating meeting using onlineMeeting",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/77597576/microsoft-graph-api-cannot-get-recordings-after-creating-meeting-using-onlinem"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "How can I add automated tasks and notifications to my Microsoft Teams chatbot?",
+    "body": "How to automated tasks and notifications to Microsoft Teams chatbot?",
+    "link": "https://stackoverflow.com/questions/79616101/how-can-i-add-automated-tasks-and-notifications-to-my-microsoft-teams-chatbot"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "ConnectionResetError when sending messages to MS Teams Bot after inactivity period",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79614341/connectionreseterror-when-sending-messages-to-ms-teams-bot-after-inactivity-peri"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "MS Teams - When a keyword is mentioned in a chat or a channel, post a message to the same location",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79613208/ms-teams-when-a-keyword-is-mentioned-in-a-chat-or-a-channel-post-a-message-to"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "How to know if tab navigation in personal app is caused by click on Open app in new window?",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79606242/how-to-know-if-tab-navigation-in-personal-app-is-caused-by-click-on-open-app-in"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Alerts firing on Prometheus but not on Alertmanager",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/64352020/alerts-firing-on-prometheus-but-not-on-alertmanager"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "IndexedDB is not working in a WebView - why?",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/61676124/indexeddb-is-not-working-in-a-webview-why"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Not able to use bot app in more than one channels of Microsoft Teams",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79597348/not-able-to-use-bot-app-in-more-than-one-channels-of-microsoft-teams"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "not able to add bot in second teams channel not getting welcome in second, thrid channel but getting in first channel",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/78864991/not-able-to-add-bot-in-second-teams-channel-not-getting-welcome-in-second-thrid"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Instructor receive a blank popup window when accessing More-&gt;Settings-&gt;Meeting Options when they launch the Teams meeting",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79598351/instructor-receive-a-blank-popup-window-when-accessing-more-settings-meeting-o"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Microsoft Copilot Studio PAYG - Restricting Teams Channel Access to Specific Users",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79564920/microsoft-copilot-studio-payg-restricting-teams-channel-access-to-specific-use"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "How do I send a message to myself with PowerAutomate?",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/75315375/how-do-i-send-a-message-to-myself-with-powerautomate"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Teams bot not receiving messages sent from within Teams",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79592550/teams-bot-not-receiving-messages-sent-from-within-teams"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "The Thread Id is invalid - Microsoft graph API for team",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79591628/the-thread-id-is-invalid-microsoft-graph-api-for-team"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Custom Teams App using Blazor published in Azure not working",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/78899179/custom-teams-app-using-blazor-published-in-azure-not-working"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "MS Teams Bot Login Issue: Successful Authentication but &#39;Unable to reach app&#39; Error",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/77321198/ms-teams-bot-login-issue-successful-authentication-but-unable-to-reach-app-er"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "MS Teams Bot: Adaptive Card User Mention Not Working",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/78969957/ms-teams-bot-adaptive-card-user-mention-not-working"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Revoking user consent/permission in Microsoft Teams app",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79582775/revoking-user-consent-permission-in-microsoft-teams-app"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "UI Automation fails to find elements in Microsoft Teams . . . UNLESS. . . Inspect.exe was used prior to inspect elements",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/71404758/ui-automation-fails-to-find-elements-in-microsoft-teams-unless-inspec"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Not able to show the sso dialog in teams bot as nothing happens after begin dialog step",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79576736/not-able-to-show-the-sso-dialog-in-teams-bot-as-nothing-happens-after-begin-dial"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Error: Get ServiceUrl failed. unable to get local issuer certificate in Teams toolkit with outlook plugin",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79576461/error-get-serviceurl-failed-unable-to-get-local-issuer-certificate-in-teams-to"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Python bot with SSO deployed on Azure Web App works in browser but fails in Teams tab: &quot;Sorry, we cannot contact the application&quot;",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79578939/python-bot-with-sso-deployed-on-azure-web-app-works-in-browser-but-fails-in-team"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Graph API: Adding app to Microsoft Teams chat returns 403 Forbidden",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79144049/graph-api-adding-app-to-microsoft-teams-chat-returns-403-forbidden"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Set-EntraUser -ShowInAddressList: A parameter cannot be found that matches parameter name &#39;ShowInAddressList&#39;",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79576370/set-entrauser-showinaddresslist-a-parameter-cannot-be-found-that-matches-param"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Power Apps for Teams - removing Copilot from the front end",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79576797/power-apps-for-teams-removing-copilot-from-the-front-end"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "PowerApps for Teams error message: The requested rename failed unexpectedly",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79576619/powerapps-for-teams-error-message-the-requested-rename-failed-unexpectedly"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Posting An Adaptive Card Obtain from a Power Automate Create an Approval Action",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/79575792/posting-an-adaptive-card-obtain-from-a-power-automate-create-an-approval-action"
+  },
+  {
+    "source": "stackoverflow",
+    "title": "Displaying user avatar next to the activity feed notification in application-only context",
+    "body": "No body content",
+    "link": "https://stackoverflow.com/questions/78108207/displaying-user-avatar-next-to-the-activity-feed-notification-in-application-onl"
+  },
+  {
+    "source": "github",
+    "title": "Feedback",
+    "body": "### Type of issue\n\nMissing information\n\n### Feedback\n\nAdd\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/bot-sso-overview\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/bots/how-to/authentication/bot-sso-overview.md\n\n### Author\n\n@surbhigupta\n\n### Document Id\n\n34429d15-0e10-655c-fa2c-c434a8a460a6\n\n### Platform Id\n\n64abf851-0f0d-7447-a501-de3a52ae8315",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12882"
+  },
+  {
+    "source": "github",
+    "title": "Feedback",
+    "body": "### Type of issue\n\nSelect an option\n\n### Feedback\n\nAdd\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/bot-sso-overview\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/bots/how-to/authentication/bot-sso-overview.md\n\n### Author\n\n@surbhigupta\n\n### Document Id\n\n34429d15-0e10-655c-fa2c-c434a8a460a6\n\n### Platform Id\n\n64abf851-0f0d-7447-a501-de3a52ae8315",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12881"
+  },
+  {
+    "source": "github",
+    "title": "Teams Tab App - not getting updated on Teams iOS Clients when new version is deployed",
+    "body": "### Steps to reproduce\n\ni have a teams tab app which supports offline capability using serviceworker. when a new version of the app is deployed , i am seeing latest version on teams desktop client but Teams iOS ignores the update and continue to show the old cached version of the app. when i tried to troubleshoot, i see the service worker is not getting registered on Teams iOS Client. \n\n### Expected behavior\n\nTeams iOS Client als should get refreshed when a new version is deployed.\n\n### Actual behavior\n\nTeams iOS Client on iPad keeps showing the previous cached version.service worker is not getting registered.\nthe instructions given here to enable devTools does nt work\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/developer-tools#activate-devtools-for-your-teams-ios-client\n\n\n\n### Error details\n\n_No response_",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12880"
+  },
+  {
+    "source": "github",
+    "title": "iOS client ignores targetWidth in responsive Adaptive Cards",
+    "body": "### Steps to reproduce\n\nWhen viewing Adaptive Cards in messages in Teams on the iOS client, elements with `targetWidth` are always shown, making it impossible to hide elements in the iOS app. \n\nPost the following Adaptive Card to a Teams Channel. The message should show only passed green tests regardless of width (`VeryNarrow`, `Narrow`, `Standard`and `Wide`) of the device showing it.\n\n```json\n{\n    \"type\": \"AdaptiveCard\",\n    \"$schema\": \"https://adaptivecards.io/schemas/adaptive-card.json\",\n    \"version\": \"1.5\",\n    \"msteams\": {\n        \"width\": \"full\"\n    },\n    \"body\": [\n        {\n            \"type\": \"Container\",\n            \"items\": [\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Detected targetWidth, only one line should be visible:\",\n                    \"wrap\": true,\n                    \"weight\": \"Bolder\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"VeryNarrow\",\n                    \"targetWidth\": \"VeryNarrow\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Narrow\",\n                    \"targetWidth\": \"Narrow\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Standard\",\n                    \"targetWidth\": \"Standard\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Wide\",\n                    \"targetWidth\": \"Wide\"\n                }\n            ]\n        },\n        {\n            \"type\": \"Container\",\n            \"targetWidth\": \"VeryNarrow\",\n            \"items\": [\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Tests for VeryNarrow\",\n                    \"wrap\": true,\n                    \"weight\": \"Bolder\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ targetWidth VeryNarrow shows on VeryNarrow\",\n                    \"targetWidth\": \"VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Narrow should NOT show on VeryNarrow\",\n                    \"targetWidth\": \"Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Standard should NOT show on VeryNarrow\",\n                    \"targetWidth\": \"Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Wide should NOT show on VeryNarrow\",\n                    \"targetWidth\": \"Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:VeryNarrow shows on VeryNarrow\",\n                    \"targetWidth\": \"AtLeast:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atLeast:Narrow should NOT show on VeryNarrow\",\n                    \"targetWidth\": \"AtLeast:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atLeast:Standard should NOT show on VeryNarrow\",\n                    \"targetWidth\": \"AtLeast:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atLeast:Wide should NOT show on VeryNarrow\",\n                    \"targetWidth\": \"AtLeast:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:VeryNarrow shows on VeryNarrow\",\n                    \"targetWidth\": \"AtMost:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Narrow shows on VeryNarrow\",\n                    \"targetWidth\": \"AtMost:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Standard shows on VeryNarrow\",\n                    \"targetWidth\": \"AtMost:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Wide shows on VeryNarrow\",\n                    \"targetWidth\": \"AtMost:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                }\n            ]\n        },\n        {\n            \"type\": \"Container\",\n            \"targetWidth\": \"Narrow\",\n            \"items\": [\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Tests for Narrow\",\n                    \"wrap\": true,\n                    \"weight\": \"Bolder\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth VeryNarrow should NOT show on Narrow\",\n                    \"targetWidth\": \"VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ targetWidth Narrow shows on Narrow\",\n                    \"targetWidth\": \"Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Standard should NOT show on Narrow\",\n                    \"targetWidth\": \"Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Wide should NOT show on Narrow\",\n                    \"targetWidth\": \"Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:VeryNarrow shows on Narrow\",\n                    \"targetWidth\": \"AtLeast:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:Narrow shows on Narrow\",\n                    \"targetWidth\": \"AtLeast:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atLeast:Standard should NOT show on Narrow\",\n                    \"targetWidth\": \"AtLeast:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atLeast:Wide should NOT show on Narrow\",\n                    \"targetWidth\": \"AtLeast:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atMost:VeryNarrow should NOT show on Narrow\",\n                    \"targetWidth\": \"AtMost:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Narrow shows on Narrow\",\n                    \"targetWidth\": \"AtMost:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Standard shows on Narrow\",\n                    \"targetWidth\": \"AtMost:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Wide shows on Narrow\",\n                    \"targetWidth\": \"AtMost:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                }\n            ]\n        },\n        {\n            \"type\": \"Container\",\n            \"targetWidth\": \"Standard\",\n            \"items\": [\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Tests for Standard\",\n                    \"wrap\": true,\n                    \"weight\": \"Bolder\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth VeryNarrow should NOT show on Standard\",\n                    \"targetWidth\": \"VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Narrow should NOT show on Standard\",\n                    \"targetWidth\": \"Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ targetWidth Standard shows on Standard\",\n                    \"targetWidth\": \"Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Wide should NOT show on Standard\",\n                    \"targetWidth\": \"Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:VeryNarrow shows on Standard\",\n                    \"targetWidth\": \"AtLeast:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:Narrow shows on Standard\",\n                    \"targetWidth\": \"AtLeast:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:Standard shows on Standard\",\n                    \"targetWidth\": \"AtLeast:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atLeast:Wide should NOT show on Standard\",\n                    \"targetWidth\": \"AtLeast:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atMost:VeryNarrow should NOT show on Standard\",\n                    \"targetWidth\": \"AtMost:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atMost:Narrow should NOT show on Standard\",\n                    \"targetWidth\": \"AtMost:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Standard shows on Standard\",\n                    \"targetWidth\": \"AtMost:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Wide shows on Standard\",\n                    \"targetWidth\": \"AtMost:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                }\n            ]\n        },\n        {\n            \"type\": \"Container\",\n            \"targetWidth\": \"Wide\",\n            \"items\": [\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"Tests for Wide\",\n                    \"wrap\": true,\n                    \"weight\": \"Bolder\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth VeryNarrow should NOT show on Wide\",\n                    \"targetWidth\": \"VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Narrow should NOT show on Wide\",\n                    \"targetWidth\": \"Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ targetWidth Standard should NOT show on Wide\",\n                    \"targetWidth\": \"Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ targetWidth Wide shows on Wide\",\n                    \"targetWidth\": \"Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:VeryNarrow shows on Wide\",\n                    \"targetWidth\": \"AtLeast:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:Narrow shows on Wide\",\n                    \"targetWidth\": \"AtLeast:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:Standard shows on Wide\",\n                    \"targetWidth\": \"AtLeast:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atLeast:Wide shows on Wide\",\n                    \"targetWidth\": \"AtLeast:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atMost:VeryNarrow should NOT show on Wide\",\n                    \"targetWidth\": \"AtMost:VeryNarrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atMost:Narrow shows on Wide\",\n                    \"targetWidth\": \"AtMost:Narrow\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"❌ atMost:Standard should NOT show on Wide\",\n                    \"targetWidth\": \"AtMost:Standard\",\n                    \"wrap\": true,\n                    \"color\": \"Attention\"\n                },\n                {\n                    \"type\": \"TextBlock\",\n                    \"text\": \"✅ atMost:Wide shows on Wide\",\n                    \"targetWidth\": \"AtMost:Wide\",\n                    \"wrap\": true,\n                    \"color\": \"Good\"\n                }\n            ]\n        }\n    ],\n    \"msTeams\": {\n        \"width\": \"full\"\n    }\n}\n```\n\n### Expected behavior\n\nTesting the card in the [Adaptive Card Designer](https://adaptivecards.microsoft.com/designer) gives the expected results:\n\n![Image](https://github.com/user-attachments/assets/2620b2cc-d12b-46e7-8454-7a2a98bee491)\n\nThe card also works as expected on the web client, Windows and macOS native clients - untested on Android.\n\n### Actual behavior\n\nOn the iOS client, several tests fail, and it seems all elements are visible, regardless of the `targetWidth` attribute. Something like this is shown when viewed in the iOS client at different widths:\n\n![Image](https://github.com/user-attachments/assets/0596fd0d-f2c0-45d3-861f-f7ac7f2506fd)\n\n### Error details\n\nTested on iOS:\n```\nVersion: 7.8.1\nBuild: 7.8.77.2025083603/0513 (general)\nCalling Version: 2025.13.01.6\nRelease Branch: 2025Apr-T2\n```",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12877"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Build-What's-New]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12876"
+  },
+  {
+    "source": "github",
+    "title": "Update feed.atom",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12875"
+  },
+  {
+    "source": "github",
+    "title": "Add ATK landing page to TOC contextually",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12871"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Teams Toolkit image file rename]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12870"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Toolkit Image name fixes]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12869"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Teamsapp command and TeamsFx CLI name fix]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12868"
+  },
+  {
+    "source": "github",
+    "title": "While uploading a copilot zip in team for testing getting BotPartnerValidationFailed error",
+    "body": "### Steps to reproduce\n\nI am experiencing this error while upload the zip in team, even though the validation is completed successfully.\n\n![Image](https://github.com/user-attachments/assets/82185c69-d442-43f4-8f37-1da959c12297)\n\n### Expected behavior\n\nUpload should be completed\n\n### Actual behavior\n\nGetting BotPartnerValidationFailed error\n\n### Error details\n\n_No response_",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12867"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Upload the bot in Teams",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12866"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Remove classic Teams instances][3968740]",
+    "body": "This is cloned from https://github.com/MicrosoftDocs/msteams-docs/pull/12021 ",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12865"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Teams-AI-lib-v2-note]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12864"
+  },
+  {
+    "source": "github",
+    "title": "Add New Microsoft 365 Agents Toolkit CLI Page",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12857"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Add code to receive the token",
+    "body": "### Type of issue\n\nFeature doesn't work (bug)\n\n### Feedback\n\nHi\n\n**Some users** that added the application to their Teams does not receive any token when calling bot\n\n**Env** : Teams Application deployed in Single Tenant, same as Entra ID\n\nIt is working fine for others\n\n`export class MainDialog extends ComponentDialog {\n  private readonly userState: UserState;\n\n  constructor(userState: UserState) {\n    super(MAIN_DIALOG);\n\n    const authTimeout = 300000;\n\n    this.addDialog(\n      new OAuthPrompt(OAUTH_PROMPT, {\n        connectionName: env.OAuthConnectionName,\n        text: 'Merci de vous connecter',\n        title: 'Se connecter',\n        timeout: authTimeout,\n      }),\n    );\n    this.addDialog(new ConfirmPrompt(CONFIRM_PROMPT));\n    this.addDialog(\n      new WaterfallDialog(MAIN_WATERFALL_DIALOG, [\n        this.promptStep.bind(this),\n        this.ensureOAuth.bind(this),\n        this.processTokenStep.bind(this),\n      ]),\n    );\n    this.initialDialogId = MAIN_WATERFALL_DIALOG;\n    this.userState = userState;\n\n    const tokenPropertyAccessor =\n      this.userState.createProperty<string>('AuthToken');\n    ioc.setAuthTokenAccessor(tokenPropertyAccessor);\n  }`\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/bot-sso-code?tabs=cs1%2Ccs2%2Ccs3%2Ccs4%2Ccs5&pivots=bot-app#add-code-to-receive-the-token\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/bots/how-to/authentication/bot-sso-code.md\n\n### Author\n\n@surbhigupta\n\n### Document Id\n\n039ff5cc-7243-ce4b-527e-c152755eeb72\n\n### Platform Id\n\n915789b2-9617-01bb-fb21-d6789a634ed8",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12855"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Teams Toolkit Link fixes]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12854"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Improvement][Image replacement VS]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12853"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Step 3: Import messages",
+    "body": "### Type of issue\n\nOther (describe below)\n\n### Feedback\n\nDear Sirs:\nOur domain don't allow we call Graph by user account directly, but they offer us an application ID and its secret.\nI suppose we need to use these information to call Graph function?\nBut I'm not sure how to send a post by application.\n\nWe try to add below parameter:\n   Bearer *Application Secret* \n   Content-type \"application/json\"\n on the \"Request header\" (From https://learn.microsoft.com/en-us/graph/api/chatmessage-post?view=graph-rest-1.0&tabs=java#request-headers)\n\nbut it returns this error:\n\"error\":{\n      \"code\":\"Unauthorized\",\n      \"message\":\"Message POST is allowed in application-only context only for import purposes. Refer to https://docs.microsoft.com/microsoftteams/platform/graph-api/import-messages/import-external-messages-to-teams for more details.\",\n      \"innerError\":{\n         \"date\":\"2025-05-13T01:33:55\",..\n\nI would like to ask:\n1. Do we use this application correctly?\n2. If 1 is no, how do we call Graph by this application?\n3. If 2 if yes, how can we fix the error?\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/graph-api/import-messages/import-external-messages-to-teams#step-3-import-messages\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/graph-api/import-messages/import-external-messages-to-teams.md\n\n### Author\n\n@AkJo\n\n### Document Id\n\nce77e760-90cf-e6b1-3cec-ae55ee50c33e\n\n### Platform Id\n\nc9cc8ad3-6c28-7c8c-af03-219bbefa1d38",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12852"
+  },
+  {
+    "source": "github",
+    "title": "Use Teams tab in SharePoint - Teams app package uploading into SharePoint App catalog doesn't work",
+    "body": "<!-- Failed to upload \"Screenshot 2025-05-14 105452.png\" -->\n\n### Type of issue\n\nFeature doesn't work (bug)\n\n### Feedback\n\nAs per the description \"[Use Teams tab in SharePoint](https://learn.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/tabs-in-sharepoint#use-teams-tab-in-sharepoint)\", we should be able to import the helloworld teams package into SharePoint without any modifications. However when we try import [the package](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/app-hello-world/csharp/demo-manifest/app-hello-world.zip) into SharePoint app catalog, we get the error \"Provider hosted app package validation error.  One of the required properties is null\".\n\n<!-- Failed to upload \"Screenshot 2025-05-14 105452.png\" -->\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/tabs-in-sharepoint#use-teams-tab-in-sharepoint\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/tabs/how-to/tabs-in-sharepoint.md\n\n### Author\n\n@surbhigupta\n\n### Document Id\n\nafcc83c4-12c0-bab6-1cec-61ac463b4f60\n\n### Platform Id\n\nf9b2ba89-f12b-cf79-099e-cba724602935",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12851"
+  },
+  {
+    "source": "github",
+    "title": "[Doc improvement][Toolkit renaming vs image replacement]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12850"
+  },
+  {
+    "source": "github",
+    "title": "docs: add migration guide for vs17.14 one-click f5",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12847"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Upload the bot in Teams",
+    "body": "### Type of issue\n\nSelect an option\n\n### Feedback\n\nThis step \"3. Go to Microsoft Teams.\" is confusing. How do I do this using Teams Developer Toolkit / Teams App since I don't have permission to submit apps to my orgs.  Can we run what we have built up to this point using Teams Developer Toolkit and the local Teams App?  What else needs to be done to do that?\n\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/sbs-bots-with-sso?tabs=dev&tutorial-step=7\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/sbs-bots-with-sso.yml\n\n### Author\n\nsurbhigupta\n\n### Document Id\n\nb410630d-3624-e389-480f-ea3307a3b774\n\n### Platform Id\n\n4b2022ca-ee48-5c9a-b390-7ed303c02fd8",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12839"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Upload the bot in Teams",
+    "body": "### Type of issue\n\nSelect an option\n\n### Feedback\n\nThe instructions to zip the file say:  \n\n1. In your cloned repository, go to Microsoft-Teams-Samples > samples > bot-conversation-sso-quickstart > **csharp_dotnetcore > BotConversationSsoQuickstart**.\n2. Create a .zip file with the following files that are present in the appPackage folder:\n\nThe appPackage is under TeamsApp, not what you have in step 1, BotConversationSsoQuickstart, for example:\n\nC:\\Users\\...\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-conversation-sso-quickstart\\ **csharp_dotnetcore\\TeamsApp\\appPackage**\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/sbs-bots-with-sso?tabs=dev&tutorial-step=7\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/sbs-bots-with-sso.yml\n\n### Author\n\nsurbhigupta\n\n### Document Id\n\nb410630d-3624-e389-480f-ea3307a3b774\n\n### Platform Id\n\n4b2022ca-ee48-5c9a-b390-7ed303c02fd8",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12838"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Debugging Outlook for Android",
+    "body": "### Type of issue\n\nSelect an option\n\n### Feedback\n\nJhh\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/m365-apps/extend-m365-teams-personal-tab?tabs=manifest-teams-toolkit#debugging-outlook-for-android\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/m365-apps/extend-m365-teams-personal-tab.md\n\n### Author\n\n@erikadoyle\n\n### Document Id\n\nb2cf31a5-621a-eeac-26c9-89ada49466c0\n\n### Platform Id\n\n59760ef9-b9b9-09a3-173f-1d97d0420bbc",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12837"
+  },
+  {
+    "source": "github",
+    "title": "BUG: Documentation specifies channelData.team.id will be channel team GUID but is actually duplicated channelid.",
+    "body": "### Type of issue\n\nCode doesn't work\n\n### Feedback\n\nDocumentation specifies that team id property should specify the team ID not the channel ID,\n```\nchannelData.team.id | Team ID (if the request was made in a channel).\n```\n([Source](https://learn.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/action-commands/create-task-module?tabs=dotnet#payload-activity-properties-when-a-dialog-is-invoked-from-a-channel-new-post))\n\nBut example in documentation shows actual behavior which erroneously duplicates the channel ID in both the channel and team properties,\n```  \n\"channelData\": {\n    \"channel\": {\n      \"id\": \"19:6decf54d86d945e4b3924b63a9161a78@thread.skype\"\n    },\n    \"team\": {\n      \"id\": \"19:acca514e83cb497e960e0b014d405336@thread.skype\"\n    },\n```\n([Source](https://learn.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/action-commands/create-task-module?tabs=dotnet#example-3))\n**Note**: team.id should be a **GUID** not a conversation identifier. **This is not just a documentation error** but the actual Teams Client also displays this erroneous behavior making it impossible to use some API methods in response to this event.\n\nThe team ID (which is needed for many API endpoints for Channel resource in Graph API) is not specified anywhere in the actual payload of the composeExtension/fetchTask invoke type. Believe this same issue exists with other invoke type payloads.\n\nThis is critical missing information and there appears to be no method of retrieving a team GUID for a specified channel via API. This blocks the use of major API methods in response to this invoke payload event.\n\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/action-commands/create-task-module?tabs=dotnet\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/messaging-extensions/how-to/action-commands/create-task-module.md\n\n### Author\n\n@surbhigupta\n\n### Document Id\n\n2ee29289-b250-4ba3-e957-7a42122a266e\n\n### Platform Id\n\n9f5af4a7-fc8c-6524-edc7-e67af5ed4a4b",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12836"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Build and run the service",
+    "body": "### Type of issue\n\nMissing information\n\n### Feedback\n\nHi - When I hit F5, the project starts,\n\n![Image](https://github.com/user-attachments/assets/f32d647f-c4c4-42ab-8ca9-a5d94527303b)\n\n and the debug window (above) displays fine.  I do not get the security window (I already installed certs previously) and I do not get the \"Your bot is ready!\" window.  There are no errors, and it isn't clear if that is what is expected.  \n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/sbs-bots-with-sso?tabs=dev&tutorial-step=6\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/sbs-bots-with-sso.yml\n\n### Author\n\nsurbhigupta\n\n### Document Id\n\nb410630d-3624-e389-480f-ea3307a3b774\n\n### Platform Id\n\n4b2022ca-ee48-5c9a-b390-7ed303c02fd8",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12835"
+  },
+  {
+    "source": "github",
+    "title": "[I ran into an issue] Build and run your app locally in Visual Studio Code",
+    "body": "### Type of issue\n\nFeature doesn't work (bug)\n\n### Feedback\n\nExecuting lifecycle deploy\n[2025-05-12T12:00:18.072Z] [Error] - Failed to Execute lifecycle deploy due to failed action: cli/runNpmCommand. ScriptExecutionError:Execute command failure: npm install --no-audit. Env output: {\"SSL_CRT_FILE\":\"C:/Users/PragyaMishra/.fx/certificate/localhost.crt\",\"SSL_KEY_FILE\":\"C:/Users/PragyaMishra/.fx/certificate/localhost.key\"}\n[2025-05-12T12:00:18.074Z] [Info] - Execution summary:\n\nSummary:\n(×) Error: Lifecycle stage deploy failed.\n  (√) Done: devTool/install was executed successfully.\n    (√) Done: Development certificate for localhost is installed.\n  (×) Error: cli/runNpmCommand failed.\n    (×) Error: Execute command failure: npm install --no-audit\n  (!) Warning: file/createOrUpdateEnvironmentFile was not executed.\n\n\n### Page URL\n\nhttps://learn.microsoft.com/en-us/microsoftteams/platform/sbs-gs-javascript?tabs=vscode%2Cvsc%2Cviscode&tutorial-step=3\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/sbs-gs-javascript.yml\n\n### Author\n\n@surbhigupta\n\n### Document Id\n\ne473e1f3-69f5-bcfa-bcab-54b098b59c80\n\n### Platform Id\n\n49d016cb-d1f9-dbb1-b10d-01f7dd6fcf5f",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12833"
+  },
+  {
+    "source": "github",
+    "title": "[Doc Feature][In-Meeting/In-call Experience for Copilot Agents][4405900]",
+    "body": "No body content",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/pull/12832"
+  },
+  {
+    "source": "github",
+    "title": "Feedback",
+    "body": "### Type of issue\n\nFeature doesn't work (bug)\n\n### Feedback\n\n920111-08-5943-08-01\nWONG HONG YANG\n44, jalan pakatan jaya 22, TAMAN PAKATAN JAYA 31150 Ipoh perak ulu kinta \n+601173558646\nWONGHONGYANG1@outlook.com\n\n### Page URL\n\nhttps://learn.microsoft.com/zh-cn/microsoftteams/platform/toolkit/install-teams-toolkit?tabs=vscode#install-a-prerelease-version\n\n### Content source URL\n\nhttps://github.com/MicrosoftDocs/msteams-docs/blob/main/msteams-platform/toolkit/install-Teams-Toolkit.md\n\n### Author\n\n@PRODIGAL'BUSNIESS敗家商\n\n### Document Id\n\n8402fe47-1338-4cb0-9cc0-c35f06dc6ca5\n\n### Platform Id\n\n857dcef4-57f6-1b0a-65f7-221c9f49c1c7",
+    "link": "https://github.com/MicrosoftDocs/msteams-docs/issues/12830"
+  }
+]
