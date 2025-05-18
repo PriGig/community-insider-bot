@@ -6,7 +6,7 @@ This project is a Microsoft Teams application that uses the Teams AI Library (v2
 ## Project Structure
 
 ```
-/community-insider-bot/
+/community-insider/
 │── mcp-client/
 │   └── index.js  # Fetches data from Stack Overflow and GitHub
 │
