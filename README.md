@@ -52,7 +52,7 @@ This project is a Microsoft Teams application that uses the Teams AI Library (v2
 * Node.js v22.15.1
 * Azure Bot Service
 * Azure OpenAI GPT-4 Deployment
-* Microsoft Teams Developer Account
+* Microsoft Teams Developer V2 
 * Ngrok (for testing in Teams)
 
 ### Installation:
